@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    padding: 20px;
+}
+.search{
+    border-style: solid;
+    width: 500px;
+    padding: 30px;
+    border-radius: 20px;
+}
+.desc{
+    text-transform: capitalize;
+}
